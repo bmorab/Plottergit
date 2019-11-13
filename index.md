@@ -6,3 +6,4 @@
 * Larry Plotter y el Malware de fuego
 * Larry Plotter y la orden de Unix
 * Larry Plotter y el misterio del hacker 
+* Larry Plotter y los controles de la vida

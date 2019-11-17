@@ -2,4 +2,4 @@
 
 Esta serie de libros cuentan la historia de un hacker de los que hay pocos.
 
-**Bea Mora** , Bea Mora lover herself
+**Bea Mora** , Bea Mora lover herself y deja ir el resentimiento
